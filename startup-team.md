@@ -7,7 +7,7 @@
 
 Member | Photograph
 --- | ---
-Brandon Liu | <img src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D2031993150411793%26set%3Da.1374497396161375.1073741825.100008033820642%26type%3D3&width=500" alt="Maya Balakrishnan" width="105.3" height="157.5"> 
+Brandon Liu | <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-1/p160x160/23167962_2031993150411793_4388362874157825191_n.jpg?oh=405d4d6dba8918bb1db2535b4546d649&oe=5ADD1B69" alt="Maya Balakrishnan" width="105.3" height="157.5"> 
 Scott Mendoza | <img src="http://i.imgur.com/VhFoQUj.jpg" alt="Tara Balakrishnan" width="105.3" height="133"> 
 
 Jorge Ochoa | <img src="http://i.imgur.com/TyXkgi0.jpg" alt="Edwin Park" width="204.8" height="136.5"> 
