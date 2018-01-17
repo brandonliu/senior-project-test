@@ -18,7 +18,7 @@ Jorge Ochoa | <img src="https://i.imgur.com/7poITpj.gif" alt="Jorge Ochoa">
 
 Member | Skills | Personal Traits | Desired Growth | Weaknesses | Hat
 --- | --- | --- | --- | --- | ---
-Brandon | Web Applications, Mobile Development, Data collection and formatting, Writing, Communication  | Logical, creative, detail-oriented | Coordination of large-scale projects | Gets too caught up in small details | Green Hat
+Brandon | Web Applications, Front End, Data Science, Product Strategy, Writing, Communication  | Detail-oriented, organized, strategic thinking | Development of product from start to finish | Backend/Systems
 Scott | Statistical Data Mining, Machine Learning, NLP, HCI, Econometrics, Business/product Strategy | high-level thinker |  Mobile Development, Scalable Systems | Documentation | White Hat
 Jorge | iOS Development, Data Mining, Machine Learning, AI, Computer Vision | Meticulous, disciplined | Management, collaboration, GitHub | Tends to procrastinate often | Blue Hat
 
